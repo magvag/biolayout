@@ -1,1 +1,2 @@
-magvag.ru/layout
+Раскладка для биологов
+https://magvag.ru/layout
