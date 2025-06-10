@@ -24,7 +24,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISIconIsTemplate</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.t.russian-forbiologists</string>
 		<key>TISIntendedLanguage</key>
